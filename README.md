@@ -4,7 +4,7 @@
 
 ## 구독 방법
 
-https://hamsm3184.github.io/kr-holidays 에서 버튼을 클릭하면 바로 구독됩니다.
+https://cal.hamsm.cc 에서 버튼을 클릭하면 바로 구독됩니다.
 
 ## 포함 기념일
 
