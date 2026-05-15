@@ -4,12 +4,7 @@
 
 ## 구독 방법
 
-아래 링크를 클릭하면 캘린더 앱에서 바로 구독할 수 있습니다.
-
-<a href="webcal://raw.githubusercontent.com/hamsm3184/kr-holidays/main/korean_memorial_days_all.ics">캘린더 구독하기</a>
-
-> 링크가 열리지 않으면 캘린더 앱에서 직접 URL을 입력하세요.  
-> `https://raw.githubusercontent.com/hamsm3184/kr-holidays/main/korean_memorial_days_all.ics`
+https://hamsm3184.github.io/kr-holidays 에서 버튼을 클릭하면 바로 구독됩니다.
 
 ## 포함 기념일
 
